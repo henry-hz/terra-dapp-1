@@ -15,3 +15,12 @@
 
 * https://github.com/InterWasm/cw-contracts/tree/main/contracts/cw20-pot
 * https://github.com/CosmWasm/cw-plus/tree/main/packages/cw20
+
+
+
+
+
+
+## Transactions
+
+https://finder.terra.money/testnet/tx/232F98F3342D8AB640C4802935C00B9C8F462A098AAF2013AFC65BB6782A7CCF

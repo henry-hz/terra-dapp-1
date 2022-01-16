@@ -1,0 +1,1 @@
+16cbd059d01ee6ca10e684697d34f46bdb4e203afb769c0f3b64633f25cc4ef5  ./target/wasm32-unknown-unknown/release/cw20_pot.wasm
