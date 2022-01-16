@@ -1,5 +1,17 @@
 # cw20-pot
 
+## Deploy
+```
+sender 
+https://finder.terra.money/testnet/address/terra1qd9fwwgnwmwlu2csv49fgtum3rgms64s8tcavp
+id 34253
+
+instance:
+https://finder.terra.money/testnet/tx/1AF5C49F57780F6489586CB157307644EC371F0CC1FBA99E157B9A7D348F293B
+
+```
+
+
 
 → terrad keys add test2                                                                                                                                                                     [2f545b7]
 
